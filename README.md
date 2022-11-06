@@ -15,7 +15,7 @@ My name is Muhammadqodir Yusupov
 
 I am a Java Software developer from Uzbekistan, Andijan
 
-- :seedling: I’m working as a Software Engineer and contributing to backend for building web applications.
+- :seedling: My aim is building softwares and contributing to backend for building web applications.
 
 - :zap: in my spare time, As I am leetcoder I solve leetcode problems and I read articles about
   IT. [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-red?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/Muhammadqodiryusupov/)
