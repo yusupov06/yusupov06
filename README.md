@@ -31,7 +31,7 @@ I am a Java Software developer from Uzbekistan, Andijan
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60" style="margin:5px;">
- <img src="https://graphql.org/img/logo.svg" title="GraphQL" alt="GraphQL" width="50" height="50" style="margin-left:15px"/>
+<!--  <img src="https://graphql.org/img/logo.svg" title="GraphQL" alt="GraphQL" width="50" height="50" style="margin-left:15px"/> -->
  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" title="Junit5" alt="Junit5" width="50" height="50" style="margin-left:15px"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" title="Intellij" alt="Intellij" width="50" height="50" style="margin-left:15px"/>
  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="VSCode" alt="VSCode" width="50" height="50" style="margin-left:15px"/>
