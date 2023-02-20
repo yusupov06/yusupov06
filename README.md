@@ -3,7 +3,7 @@
 My name is Muhammadqodir Yusupov
 
 <div id="badges">
-  <a href="linkedin.com/in/muhammadqodir-yusupov-81278b240">
+  <a href="https://www.linkedin.com/in/yusupov06">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Muhammadqodir_Yusupov">
